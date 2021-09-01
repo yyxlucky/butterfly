@@ -3,8 +3,8 @@
 # @Author  : yixuan yang
 # @File    : butterflyGenerator.py
 
-import util.CL.py as CL
-import util.IO.py as IO
+import util.CL as CL
+import util.IO as IO
 import numpy as np
 
 
