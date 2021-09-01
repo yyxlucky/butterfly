@@ -3,9 +3,9 @@
 # @Author  : yixuan yang
 # @File    : butterflyGenerator.py
 
-import .util.CL as CL
-import .util.IO as IO
-import .numpy as np
+import butterfly.util.CL as CL
+import butterfly.util.IO as IO
+import numpy as np
 
 
 def butterfly():
